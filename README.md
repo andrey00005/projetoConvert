@@ -1,6 +1,6 @@
 # 💱 Convert - Conversor de Moedas
 
-![apresentacão do desafio](assets/apresentacao.gif)
+![apresentacão do desafio](img/apresentacao.gif)
 
 Projeto desenvolvido como prática de **HTML, CSS e JavaScript**, acompanhando videoaula, com o objetivo de reforçar conceitos fundamentais de manipulação do DOM e lógica com JavaScript.
 
